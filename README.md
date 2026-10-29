@@ -34,5 +34,15 @@ You can download the latest release APK directly from GitHub:
 
 ---
 
+## ⭐ Show Your Support!
+
+If you enjoy using NOIzedVoice YTKaraoke Remote, please consider giving our repository a ⭐ **Star** on GitHub! Your support helps us grow and improve.
+
+To Star the project:
+1. Go to our repository: [github.com/noi520/NOIzedVoice-YTKaraoke-Remote](https://github.com/noi520/NOIzedVoice-YTKaraoke-Remote)
+2. Click the **Star** button at the top-right corner of the page.
+
+---
+
 ## 📝 License
 This project is open-source and free for personal and entertainment use.
