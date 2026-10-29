@@ -1,6 +1,6 @@
-# 🎤 NOIzedVoice YTKaraoke Remote
+# 🎤 NOIzedVoice YouTubeTV-Karaoke Remote
 
-A seamless, multi-device YouTube karaoke queue and remote system designed for parties, drinking sessions, and family gatherings! No more standing up just to pick a song—let everyone control the queue right from their own phones.
+A seamless, multi-device YouTubeTV karaoke queue and remote system designed for parties, drinking sessions, and family gatherings! No more standing up just to pick a song—let everyone control the queue right from their own phones.
 
 ---
 
